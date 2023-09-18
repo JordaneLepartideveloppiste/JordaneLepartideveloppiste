@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jordane</h1>
 <h3 align="center">A passionate full-stack web developer from France</h3>
 
-- 🌱 I’m currently learning **Web 3 development**
+- 🌱 I’m currently learning **DevOpps technologies**
 
 - 💬 Ask me about **React, Vue and Node**
 
